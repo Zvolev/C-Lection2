@@ -1,0 +1,15 @@
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\bin\Debug\net6.0\Ext4.exe
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\bin\Debug\net6.0\Ext4.deps.json
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\bin\Debug\net6.0\Ext4.runtimeconfig.json
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\bin\Debug\net6.0\Ext4.dll
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\bin\Debug\net6.0\Ext4.pdb
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.csproj.AssemblyReference.cache
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.AssemblyInfoInputs.cache
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.AssemblyInfo.cs
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.csproj.CoreCompileInputs.cache
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.dll
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\refint\Ext4.dll
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.pdb
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\Ext4.genruntimeconfig.cache
+C:\Users\zvole\OneDrive\Documents\Личное\Учеба\GikBrains\Знакомство с яз.программирования\Lection2\Ext4\obj\Debug\net6.0\ref\Ext4.dll
